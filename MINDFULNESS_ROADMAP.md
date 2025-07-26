@@ -1,7 +1,7 @@
-# 🧘 SyncMyPhone Mindfulness Features Roadmap
+# 🧘 Blreathe Mindfulness Features Roadmap
 
 ## 🎯 **Tổng Quan**
-Biến SyncMyPhone từ "app blocker" thành "mindfulness coach" - giúp users phát triển self-awareness và healthy relationship với technology.
+Biến Blreathe từ "app blocker" thành "mindfulness coach" - giúp users phát triển self-awareness và healthy relationship với technology.
 
 ## 🚀 **10 Phases Development Plan**
 

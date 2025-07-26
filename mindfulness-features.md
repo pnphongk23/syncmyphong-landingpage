@@ -1,4 +1,4 @@
-# SyncMyPhone Mindfulness Features Roadmap
+# Blreathe Mindfulness Features Roadmap
 
 ## 🎯 Phase 1: Enhanced Blocking Experience (Current)
 - ✅ Custom breathing animations with Jetpack Compose
